@@ -85,41 +85,4 @@ h1 {
   /* top: 100px;
     right: 250px; */
 }
-@media  screen and (min-width:320px) and (max-width:767px ) {
-  .nav{
-    
-    background-color: #fe2f5c;
-  }
-  *{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  }
-  body{
-    padding: 20px;
-    margin: 0;
-  }
-  .main{
-    width: 100%;
-    display: flex;
-    flex-direction: row;
-    align-content: center;
-    flex-wrap: wrap;
-    padding-top:  100px;
-    /* position: relative;
-    left: 50px;
-    top: 50px; */
-  }
-  .header {
-    display: block;
-    text-align: center;
-   
-  }
-  .header h2{
-    font-size: 2.5rem;
-  }
-  .text{
-    padding-bottom:50px ;
-  }
-  
-}
+
